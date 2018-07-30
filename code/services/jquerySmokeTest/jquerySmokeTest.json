@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,jquery",
+    "logging_enabled": "false",
+    "name": "jquerySmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "jquerySmokeTest.js"
+}
